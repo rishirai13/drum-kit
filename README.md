@@ -49,6 +49,33 @@ It’s designed for simplicity, speed, and an immersive sound experience — per
 
 ---
 
+## 🏷️ SEO Metadata
+**Keywords:** Drum Kit, JavaScript Drum Kit, Online Drum Pad, Music App, Frontend Project, Rishi Rai  
+**Author:** Rishi Rai  
+
+---
+
+## 🌟 Why This Project  
+This project blends **creativity with code** — showing how simple DOM manipulation can deliver an engaging, musical experience.  
+It’s an ideal project for those learning **JavaScript event handling** and building **interactive UI components**.
+
+---
+
+## 🧑‍💻 Author  
+**Rishi Rai**  
+Frontend Developer & Java Full Stack Learner  
+
+🌐 [Portfolio](#) · 💼 [LinkedIn](#) · 🐙 [GitHub](https://github.com/rishirai13)
+
+---
+
+## 🪄 License  
+This project is licensed under the **MIT License** — free to use, modify, and share.  
+
+❤️ Made with rhythm, code, and creativity.
+
+---
+
 ## 🛠️ Setup Instructions
 Clone and run locally:
 ```bash
@@ -60,3 +87,5 @@ cd drum-kit
 
 # Run locally
 open index.html
+
+
