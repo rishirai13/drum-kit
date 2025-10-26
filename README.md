@@ -37,18 +37,6 @@ It’s designed for simplicity, speed, and an immersive sound experience — per
 
 ---
 
-## 🖥️ Live Demo
-👉 **[Try the Drum Kit Online](https://rishirai13.github.io/drum-kit/)**  
-
-*(Tap or press keys — unleash your rhythm!)*
-
----
-
-## 📸 Preview
-![Drum Kit Interface](https://github.com/rishirai13/drum-kit/blob/8ba28390cc29eaab00cc12f846c665ae32416f90/drum-kit.png)
-
----
-
 ## 🏷️ SEO Metadata
 **Keywords:** Drum Kit, JavaScript Drum Kit, Online Drum Pad, Music App, Frontend Project, Rishi Rai  
 **Author:** Rishi Rai  
