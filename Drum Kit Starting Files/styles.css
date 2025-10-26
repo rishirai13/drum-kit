@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #0e141b; /* deep navy background for a premium feel */
+}
+
+h1 {
+  font-size: 5rem;
+  color: #e0e6ed; /* soft neutral white */
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #5c6f8c; /* subtle steel-blue shadow */
+}
+
+footer {
+  color: #9da9b9; /* muted cool gray */
+  font-family: "Inter", sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: #a72626; /* refined red */
+  opacity: 0.85;
+}
+
+.pressed {
+  box-shadow: 0 3px 6px 0 #c8d0e0;
+  opacity: 0.6;
+}
+
+.red {
+  color: #e85a5a;
+}
+
+.drum {
+  outline: none;
+  border: 8px solid #2a3440; /* dark slate border */
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #3c91e6; /* premium blue accent */
+  text-shadow: 2px 0 #e0e6ed; /* gentle contrast */
+  border-radius: 18px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: #f8f9fb; /* soft off-white for clarity */
+}
